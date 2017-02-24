@@ -1,0 +1,115 @@
+body {
+background-color: darkslategrey;
+margin: 0px;
+font-family: Verdana, Georgia, serif;
+font-size: 16px;
+}
+
+header {
+background-color: darkorchid;
+color: silver;
+margin: 10px;
+height: 90px;
+border-radius: 5px;
+}
+
+nav {
+background-color: mediumpurple;
+color: silver;
+margin: 10px;
+height: 50px;
+border-radius: 5px;
+text-align: center;
+}
+
+h1 {
+color: mediumspringgreen;
+font-size: 3em;
+text-align: center;
+font-family: "ComicSansMS";
+font-style: oblique;
+}
+
+h2 {
+color: paleturquoise;
+font-family: "Georgia";
+font-style: oblique;
+text-align: center;
+}
+
+main {
+background-color: forestgreen;
+font-family: "Helvetica";
+font-style: oblique;
+color: darkturquoise;
+margin-left: 10px;
+margin-top: 0px;
+margin-bottom: 20px;
+border-radius: 5px;
+padding: 20px;
+font-size: 110%;
+min-width: 320px;
+max-width: 60%;
+float: left;
+}
+
+aside {
+background-color: mediumorchid;
+font-family: "Helvetica";
+font-style: oblique;
+color: silver;
+border-radius: 5px;
+padding: 20px;
+font-size: 105%;
+float: left;
+width: 260px;
+margin-left: 10px; 
+margin-right: 10px;
+margin-top: 0px; 
+margin-bottom: 10px;
+}
+
+section {
+background-color: darkseagreen;
+font-family: "Helvetica";
+font-style: oblique;
+color: mediumorchid;
+margin-left: 10px;
+margin-right: 320px;
+margin-top: 10px;
+border-radius: 5px;
+padding: 20px;
+font-size: 120%;
+min-width: 320px;
+margin: 10px;
+clear: both;
+}
+
+img {
+width: 250px;
+margin: 0px, 10px, 10px, 10px;
+float: right;
+clear: right;
+}
+
+footer {
+background-color: mediumpurple;
+text-align: center;
+margin: 10px;
+height: 90px;
+clear: both;
+border-radius: 5px;
+}
+
+.aside1 {
+background-color: mediumorchid;
+border-radius: 5px;
+padding: 20px;
+float: left;
+width: 260px;
+margin-left: 10px; 
+margin-right: 10px;
+margin-top: 0px; 
+margin-bottom: 10px;
+}
+
